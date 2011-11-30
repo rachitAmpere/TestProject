@@ -12,5 +12,7 @@ public partial class _Default : System.Web.UI.Page
         string STRDEV2 = string.Empty;
 
         string test2 = string.Empty;
+        string test3 = string.Empty;
+        string test4 = string.Empty;
     }
 }
