@@ -9,9 +9,6 @@ public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-     
-        
-        string dev17 = string.Empty; 
-        string dev18 = string.Empty; 
+   
     }
 }
