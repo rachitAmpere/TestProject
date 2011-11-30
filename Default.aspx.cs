@@ -11,5 +11,7 @@ public partial class _Default : System.Web.UI.Page
     {
      
         
+        string dev17 = string.Empty; 
+        string dev18 = string.Empty; 
     }
 }
