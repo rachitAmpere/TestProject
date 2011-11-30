@@ -22,10 +22,11 @@ public partial class _Default : System.Web.UI.Page
         string dev12 = string.Empty;
         string dev13 = string.Empty;
         string dev14 = string.Empty;
+        string dev15 = string.Empty;
 <<<<<<< HEAD
-        string dev15 = string.Empty; 
+        string dev26 = string.Empty; 
 =======
-        string dev25 = string.Empty;
->>>>>>> 565031cccbb68d5fe0e74ad2c8d0d3834ff6589e
+        string dev16 = string.Empty;
+>>>>>>> 29fd0df10948f906c4d281ed1165c254bfc9b310
     }
 }
