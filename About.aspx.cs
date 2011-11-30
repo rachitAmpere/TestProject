@@ -11,7 +11,7 @@ public partial class About : System.Web.UI.Page
     {
         string strtest1 = string.Empty;
         string strtest2 = string.Empty;
-
+        string strdev2 = string.Empty;
 
     }
 }
