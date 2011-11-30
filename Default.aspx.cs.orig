@@ -9,10 +9,11 @@ public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
+        string dev21 = string.Empty;
 <<<<<<< HEAD
-        string dev21 = string.Empty; 
+        string dev22 = string.Empty; 
 =======
-        string dev11 = string.Empty; 
->>>>>>> ba098f194b288d25494ca24f831128fa3e25fc0f
+        string dev12 = string.Empty; 
+>>>>>>> 1b1e74b81a0f5bb554c7510fcea8bf818b13dcd0
     }
 }
