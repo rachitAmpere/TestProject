@@ -10,6 +10,8 @@ public partial class About : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
         string strtest1 = string.Empty;
+        string strtest2 = string.Empty;
+
 
     }
 }
