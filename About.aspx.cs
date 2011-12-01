@@ -13,10 +13,15 @@ public partial class About : System.Web.UI.Page
         string strtest2 = string.Empty;
         string strdev2 = string.Empty;
         string test2 = string.Empty;
+        string dev25 = string.Empty;
         string test3 = string.Empty;
         string test4 = string.Empty;
         string test5 = string.Empty;
         string dev24 = string.Empty; 
         string dev14 = string.Empty; 
+    }
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+
     }
 }
