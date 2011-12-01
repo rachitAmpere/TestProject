@@ -10,5 +10,7 @@
     </h2>
     <p>
         Put content here.
+        <asp:CheckBox ID="CheckBox1" runat="server" 
+            oncheckedchanged="CheckBox1_CheckedChanged" />
     </p>
 </asp:Content>
