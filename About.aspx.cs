@@ -9,7 +9,7 @@ public partial class About : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        
+        string dev26 = string.Empty;
         string strtest1 = string.Empty;
         string strtest2 = string.Empty;
         string strdev2 = string.Empty;
@@ -24,6 +24,10 @@ public partial class About : System.Web.UI.Page
         string dev16 = string.Empty; 
     }
     protected void Button1_Click(object sender, EventArgs e)
+    {
+        string str = "";
+    }
+    protected void CheckBox1_CheckedChanged(object sender, EventArgs e)
     {
 
     }
