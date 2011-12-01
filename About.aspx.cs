@@ -17,6 +17,7 @@ public partial class About : System.Web.UI.Page
         string test4 = string.Empty;
         string test5 = string.Empty;
         string dev24 = string.Empty; 
-        string dev14 = string.Empty; 
+        string dev14 = string.Empty;
+        string dev15 = string.Empty; 
     }
 }
