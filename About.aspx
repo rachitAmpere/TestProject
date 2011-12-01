@@ -6,6 +6,7 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
         About
+        <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="Button" />
     </h2>
     <p>
         Put content here.
