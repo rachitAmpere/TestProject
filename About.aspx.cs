@@ -30,6 +30,7 @@ public partial class About : System.Web.UI.Page
         string str24 = "";
         string str25 = "";
         string str26 = "";
+        string str27 = "";
     }
     protected void CheckBox1_CheckedChanged(object sender, EventArgs e)
     {
