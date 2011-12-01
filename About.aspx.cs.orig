@@ -9,11 +9,7 @@ public partial class About : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-<<<<<<< HEAD
-        
-=======
         string dev26 = string.Empty;
->>>>>>> 1a7715e9dcc9276fdd3f520e843d0b1a935a3a8e
         string strtest1 = string.Empty;
         string strtest2 = string.Empty;
         string strdev2 = string.Empty;
@@ -30,6 +26,14 @@ public partial class About : System.Web.UI.Page
     protected void Button1_Click(object sender, EventArgs e)
     {
         string str = "";
+        string str22 = "";
+<<<<<<< HEAD
+        string str24 = "";
+        string str25 = "";
+        string str26 = "";
+        string str27 = "";
+=======
+>>>>>>> 8806dea... str22
     }
     protected void CheckBox1_CheckedChanged(object sender, EventArgs e)
     {
