@@ -20,13 +20,14 @@ public partial class About : System.Web.UI.Page
         string test5 = string.Empty;
         string dev24 = string.Empty; 
         string dev14 = string.Empty;
-        string dev15 = string.Empty; 
+        string dev15 = string.Empty;
+        string dev16 = string.Empty; 
     }
     protected void Button1_Click(object sender, EventArgs e)
     {
         string str = "";
-
-
+        string str22 = "";
+        string str24 = "";
 
     }
     protected void CheckBox1_CheckedChanged(object sender, EventArgs e)
