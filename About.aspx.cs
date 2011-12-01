@@ -25,9 +25,12 @@ public partial class About : System.Web.UI.Page
     protected void Button1_Click(object sender, EventArgs e)
     {
         string str = "";
+
+
+
     }
     protected void CheckBox1_CheckedChanged(object sender, EventArgs e)
     {
-
+        string chk11 = string.Empty;
     }
 }
